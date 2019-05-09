@@ -1,0 +1,8 @@
+Program Ejemplo
+#libreria<uno.h>
+#libreria<dos.h>
+Var x,y : real
+Inicio
+x := 4 +4 * sen(4+5fd) 
+y:=-raiz(3+3)
+Fin 
